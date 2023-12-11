@@ -1,0 +1,6 @@
+framework module CioMessagingPushFCM {
+  umbrella header "CustomerIOMessagingPushFCM-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module CioTracking {
+  umbrella header "CustomerIOTracking-umbrella.h"
+
+  export *
+  module * { export * }
+}
